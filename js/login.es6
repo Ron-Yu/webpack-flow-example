@@ -3,4 +3,5 @@ let login = (username, password) => {
     console.log(password)
 };
 
-login('ron', '1234');
+// login('ron!!', '1234');
+export { login };
